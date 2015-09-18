@@ -1,0 +1,12 @@
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ARXBackup.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ARXBackup.exe
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ARXBackup.pdb
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.frmLogin.resources
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.exe
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.pdb
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.Form1.resources
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ARXBackup.frmPreferencias.resources
